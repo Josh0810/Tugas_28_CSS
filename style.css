@@ -1,0 +1,13 @@
+body {
+    background: #333333;
+}
+.container {
+    color: white;
+    width: 1100px;
+}
+.rounded-circle {
+    width: 175px;
+}
+.form-check-label {
+    font-size: 13px;
+}
